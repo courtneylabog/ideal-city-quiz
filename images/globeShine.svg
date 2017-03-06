@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="995px" height="983px" viewBox="0 0 995 983" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>globe</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="493" y="0" width="20" height="133"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="133" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="57" y="425" width="20" height="133"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="133" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="851.629203" y="116.129203" width="20" height="133"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="133" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="859.629203" y="734.129203" width="20" height="133"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="133" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="126.629203" y="124.129203" width="20" height="133"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="133" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="126.629203" y="726.129203" width="20" height="133"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="133" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="918.5" y="410.5" width="20" height="133"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="133" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <rect id="path-15" x="493" y="850" width="20" height="133"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="133" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <circle id="path-17" cx="508" cy="492" r="309"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cities-copy-4" transform="translate(-213.000000, -21.000000)">
+            <g id="globe" transform="translate(213.000000, 21.000000)">
+                <g id="globeShine" stroke="#FFFFFF" stroke-width="2" fill="#FAFDC1" opacity="0.396908967">
+                    <use id="Rectangle-41" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                    <use id="Rectangle-41" mask="url(#mask-4)" transform="translate(67.000000, 491.500000) rotate(-90.000000) translate(-67.000000, -491.500000) " xlink:href="#path-3"></use>
+                    <use id="Rectangle-41" mask="url(#mask-6)" transform="translate(861.629203, 182.629203) rotate(45.000000) translate(-861.629203, -182.629203) " xlink:href="#path-5"></use>
+                    <use id="Rectangle-41" mask="url(#mask-8)" transform="translate(869.629203, 800.629203) rotate(315.000000) translate(-869.629203, -800.629203) " xlink:href="#path-7"></use>
+                    <use id="Rectangle-41" mask="url(#mask-10)" transform="translate(136.629203, 190.629203) rotate(315.000000) translate(-136.629203, -190.629203) " xlink:href="#path-9"></use>
+                    <use id="Rectangle-41" mask="url(#mask-12)" transform="translate(136.629203, 792.629203) rotate(45.000000) translate(-136.629203, -792.629203) " xlink:href="#path-11"></use>
+                    <use id="Rectangle-41" mask="url(#mask-14)" transform="translate(928.500000, 477.000000) rotate(-90.000000) translate(-928.500000, -477.000000) " xlink:href="#path-13"></use>
+                    <use id="Rectangle-41" mask="url(#mask-16)" xlink:href="#path-15"></use>
+                </g>
+                <mask id="mask-18" fill="white">
+                    <use xlink:href="#path-17"></use>
+                </mask>
+                <use id="Mask" fill="#5FD5E4" xlink:href="#path-17"></use>
+                <path d="M56.5873279,434.558113 C55.5445804,398.687599 83.7893771,369.608802 119.664948,369.608802 L294.200578,369.608802 C330.080133,369.608802 359.166259,398.690362 359.166259,434.581907 L359.166259,434.581907 C359.166259,470.465562 330.078782,499.555012 294.19883,499.555012 L123.444202,499.555012 C87.5636815,499.555012 57.6313784,470.473452 56.5887112,434.605701 L56.5873279,434.558113 Z" id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-18)"></path>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-18)" x="134.782396" y="516.93154" width="274.246944" height="98.2151589" rx="49.1075795"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-18)" x="582.794621" y="446.669927" width="302.95599" height="83.1051345" rx="41.5525672"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-18)" x="634.168704" y="485.95599" width="247.0489" height="98.2151589" rx="49.1075795"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-18)" x="512.533007" y="268.371638" width="397.393643" height="148.07824" rx="74.0391198"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-18)" x="613.01467" y="559.99511" width="231.183374" height="47.596577" rx="23.7982885"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-18)" x="658.344743" y="588.704156" width="231.183374" height="47.596577" rx="23.7982885"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-18)" x="656.07824" y="655.188264" width="139.767726" height="30.2200489" rx="15.1100244"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-18)" x="667.410758" y="622.701711" width="139.767726" height="47.596577" rx="23.7982885"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-18)" x="634.168704" y="396.051345" width="94.4376528" height="71.0171149" rx="35.5085575"></rect>
+                <rect id="Rectangle-33" fill="#5FD5E4" mask="url(#mask-18)" x="582.794621" y="416.449878" width="75.5501222" height="30.2200489" rx="15.1100244"></rect>
+                <rect id="Rectangle-33" fill="#5FD5E4" mask="url(#mask-18)" x="580.528117" y="529.775061" width="75.5501222" height="30.2200489" rx="15.1100244"></rect>
+                <rect id="Rectangle-33" fill="#5FD5E4" mask="url(#mask-18)" x="617.547677" y="607.591687" width="94.4376528" height="47.596577" rx="23.7982885"></rect>
+                <rect id="Rectangle-33" fill="#5FD5E4" mask="url(#mask-18)" x="711.98533" y="416.449878" width="75.5501222" height="30.2200489" rx="15.1100244"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-18)" x="226.198044" y="645.366748" width="167.721271" height="98.2151589" rx="49.1075795"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-18)" x="153.669927" y="588.704156" width="167.721271" height="98.2151589" rx="49.1075795"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-18)" x="183.889976" y="751.136919" width="194.163814" height="98.2151589" rx="49.1075795"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-18)" x="111.361858" y="241.929095" width="236.471883" height="98.2151589" rx="49.1075795"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-18)" x="70.5647922" y="297.836186" width="236.471883" height="98.2151589" rx="49.1075795"></rect>
+                <rect id="Rectangle-33" fill="#5FD5E4" mask="url(#mask-18)" x="281.349633" y="339.388753" width="75.5501222" height="30.9755501" rx="15.4877751"></rect>
+                <rect id="Rectangle-33" fill="#5FD5E4" mask="url(#mask-18)" x="294.948655" y="615.146699" width="75.5501222" height="30.2200489" rx="15.1100244"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="549px" height="549px" viewBox="0 0 549 549" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>nyc</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="180" y="314" width="60" height="121"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="60" height="121" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="319" y="314" width="60" height="121"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="60" height="121" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="310" y="397" width="76" height="151"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="76" height="151" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <polygon id="path-7" points="328 413 330 413 332 413 332 534 328 534"></polygon>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="121" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="346" y="413" width="5" height="121" rx="2.5"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5" height="121" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="364" y="413" width="4" height="121" rx="2"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="121" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="171" y="397" width="76" height="151"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="76" height="151" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <rect id="path-15" x="189" y="413" width="4" height="121" rx="2"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="121" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <rect id="path-17" x="206" y="413" width="5" height="121" rx="2.5"></rect>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5" height="121" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+        <rect id="path-19" x="225" y="413" width="4" height="121" rx="2"></rect>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="121" fill="white">
+            <use xlink:href="#path-19"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cities" transform="translate(-28.000000, -423.000000)">
+            <g id="nyc" transform="translate(28.000000, 423.000000)">
+                <circle id="Oval" fill="#B5E1F2" cx="274.5" cy="274.5" r="274.5"></circle>
+                <path d="M143.152904,460.61259 C141.827198,461.419296 131.218096,467.357722 116.471614,460.524759 C100.692254,453.2132 92.4891989,424.8728 91.0166229,417.083766 C90.2987094,413.28644 86.14872,393.548201 102.060943,381.005654 C117.282746,369.007319 141.113556,375.921774 143.152904,376.54439 C145.192252,375.921774 169.023063,369.007319 184.244865,381.005654 C200.157088,393.548201 196.007099,413.28644 195.289185,417.083766 C193.816609,424.8728 185.613554,453.2132 169.834194,460.524759 C155.087712,467.357722 144.478611,461.419296 143.152904,460.61259 Z" id="Combined-Shape" stroke="#F85252" stroke-width="5" fill="#FB6565"></path>
+                <path d="M164.057643,357.412321 C164.057643,357.412321 152.675217,354.835313 146.754875,362.566337 C139.563016,371.957761 144.914155,379.869106 144.914155,379.869106" id="Line" stroke="#6D6242" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M94,363.518973 C94,363.518973 102.068826,381.092847 117.64052,386.454612 C133.212214,391.816376 150.390093,382.935639 150.390093,382.935639 C150.390093,382.935639 142.321267,365.361764 126.749573,360 C111.177879,354.638236 94,363.518973 94,363.518973 Z" id="Oval-9" fill="#8FD6A4"></path>
+                <rect id="Rectangle-2" fill="#E0DCD4" x="194" y="253" width="167" height="295"></rect>
+                <rect id="Rectangle" fill="#D0CBC1" x="211" y="232" width="136" height="22"></rect>
+                <rect id="Rectangle" fill="#E1DCD3" x="222" y="224" width="113" height="8"></rect>
+                <rect id="Rectangle-6" fill="#AFAFAF" x="218" y="273" width="5" height="151"></rect>
+                <rect id="Rectangle-6" fill="#AFAFAF" x="204" y="273" width="5" height="151"></rect>
+                <rect id="Rectangle-6" fill="#AFAFAF" x="348" y="273" width="5" height="151"></rect>
+                <rect id="Rectangle-6" fill="#AFAFAF" x="335" y="273" width="5" height="151"></rect>
+                <use id="Rectangle-3" stroke="#979797" mask="url(#mask-2)" stroke-width="9" fill="#CFCAC1" xlink:href="#path-1"></use>
+                <use id="Rectangle-3" stroke="#979797" mask="url(#mask-4)" stroke-width="9" fill="#CFCAC1" xlink:href="#path-3"></use>
+                <use id="Rectangle-3" stroke="#979797" mask="url(#mask-6)" stroke-width="10.8" fill="#CBCBCB" xlink:href="#path-5"></use>
+                <use id="Rectangle-4" stroke="#848383" mask="url(#mask-8)" stroke-width="1.8" fill="#7B7B7B" xlink:href="#path-7"></use>
+                <use id="Rectangle-4" stroke="#848383" mask="url(#mask-10)" stroke-width="1.8" fill="#7B7B7B" xlink:href="#path-9"></use>
+                <rect id="Rectangle-7" fill="#CFCAC1" x="263" y="132" width="31" height="93"></rect>
+                <rect id="Rectangle-5" fill="#979797" x="276" y="29" width="5" height="194"></rect>
+                <use id="Rectangle-4" stroke="#848383" mask="url(#mask-12)" stroke-width="1.8" fill="#7B7B7B" xlink:href="#path-11"></use>
+                <use id="Rectangle-3" stroke="#979797" mask="url(#mask-14)" stroke-width="10.8" fill="#CBCBCB" xlink:href="#path-13"></use>
+                <use id="Rectangle-4" stroke="#848383" mask="url(#mask-16)" stroke-width="1.8" fill="#7B7B7B" xlink:href="#path-15"></use>
+                <use id="Rectangle-4" stroke="#848383" mask="url(#mask-18)" stroke-width="1.8" fill="#7B7B7B" xlink:href="#path-17"></use>
+                <use id="Rectangle-4" stroke="#848383" mask="url(#mask-20)" stroke-width="1.8" fill="#7B7B7B" xlink:href="#path-19"></use>
+                <rect id="Rectangle-6" fill="#AFAFAF" x="259" y="265" width="4" height="284"></rect>
+                <rect id="Rectangle-6" fill="#AFAFAF" x="275" y="265" width="5" height="284"></rect>
+                <rect id="Rectangle-6" fill="#AFAFAF" x="294" y="265" width="4" height="284"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

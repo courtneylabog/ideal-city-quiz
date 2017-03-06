@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="549px" height="608px" viewBox="0 0 549 608" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Toronto</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="87" y="419" width="240" height="66"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="240" height="66" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="270.721519" y="90" width="12.6075949" height="73"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12.6075949" height="73" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="270.721519" y="60" width="12.6075949" height="31"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12.6075949" height="31" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="272.822785" y="30" width="8.40506329" height="31"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8.40506329" height="31" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="274.924051" y="0" width="4.20253165" height="31"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4.20253165" height="31" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <path d="M245.506329,165.002929 C245.506329,164.449027 245.945467,163.979114 246.501042,163.953109 C246.501042,163.953109 266.202497,163 277.025316,163 C287.848135,163 307.549591,163.953109 307.549591,163.953109 C308.098956,163.979006 308.544304,164.437881 308.544304,165.002929 L308.544304,169.997071 C308.544304,170.550973 308.092239,171 307.550351,171 L277.025316,171 L246.500282,171 C245.951337,171 245.506329,170.562119 245.506329,169.997071 L245.506329,165.002929 Z" id="path-11"></path>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="63.0379747" height="8" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cities-copy-2" transform="translate(-865.000000, -199.000000)">
+            <g id="Toronto" transform="translate(865.000000, 199.000000)">
+                <circle id="Oval" fill="#E6B9B9" cx="274.5" cy="313.5" r="274.5"></circle>
+                <path d="M318.775327,436.625175 C318.775327,375.107467 268.905371,348 207.387664,348 C145.869956,348 96,375.107467 96,436.625175 C96,498.142882 318.775327,498.142882 318.775327,436.625175 Z" id="Oval-10" stroke="#979797" stroke-width="2" fill="#FAFBFC"></path>
+                <use id="Rectangle-34" stroke="#979797" mask="url(#mask-2)" stroke-width="6" fill="#E7EAEA" xlink:href="#path-1"></use>
+                <rect id="Rectangle-32" fill="#95E1EF" x="104" y="438" width="27" height="27"></rect>
+                <rect id="Rectangle-32" fill="#95E1EF" x="144" y="438" width="27" height="27"></rect>
+                <rect id="Rectangle-32" fill="#95E1EF" x="184" y="438" width="27" height="27"></rect>
+                <rect id="Rectangle-32" fill="#95E1EF" x="224" y="438" width="27" height="27"></rect>
+                <rect id="Rectangle-32" fill="#95E1EF" x="282" y="439" width="27" height="27"></rect>
+                <use id="Rectangle-31" stroke="#979797" mask="url(#mask-4)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-3"></use>
+                <use id="Rectangle-31" stroke="#979797" mask="url(#mask-6)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-5"></use>
+                <use id="Rectangle-31" stroke="#979797" mask="url(#mask-8)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-7"></use>
+                <use id="Rectangle-31" stroke="#979797" mask="url(#mask-10)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-9"></use>
+                <path d="M311.611974,599.534025 L241.303797,599.534025 C248.668663,479.356017 256.034846,359.178008 263.399712,239 C272.26944,239.011035 281.140485,239.022806 290.010213,239.034576 C297.210361,359.200814 304.411826,479.367787 311.611974,599.534025" id="Fill-1" fill="#D7D6D6"></path>
+                <path d="M311.611974,599.534025 L241.303797,599.534025 C248.668663,479.356017 256.034846,359.178008 263.399712,239 C272.26944,239.011035 281.140485,239.022806 290.010213,239.034576 C297.210361,359.200814 304.411826,479.367787 311.611974,599.534025 Z" id="Stroke-3" stroke="#3F3F3F" stroke-width="3"></path>
+                <path d="M292.78481,608 L261.265823,608 C264.567474,485.666667 267.869717,363.333333 271.171368,241 C275.147646,241.011233 279.124515,241.023215 283.100793,241.035197 C286.328601,363.356548 289.557001,485.678648 292.78481,608" id="Fill-1" fill="#BBBABA"></path>
+                <rect id="Rectangle" fill="#40466A" x="235" y="199" width="83" height="6.4595697"></rect>
+                <use id="Rectangle-23" stroke="#3F3F3F" mask="url(#mask-12)" stroke-width="3" fill="#FFFDFD" xlink:href="#path-11"></use>
+                <path d="M315.898734,176 L309.551186,194.345685 C308.648443,196.954793 305.673071,199.069892 302.91745,199.069892 L249.877826,199.069892 C247.116858,199.069892 244.160914,196.940883 243.28131,194.331734 L237.101266,176 L315.898734,176 Z" id="Polygon-2" stroke="#3F3F3F" stroke-width="1.5" fill="#D7D6D6" transform="translate(276.500000, 187.534946) scale(1, -1) translate(-276.500000, -187.534946) "></path>
+                <path d="M315.898734,206 L309.551186,224.345685 C308.648443,226.954793 305.673071,229.069892 302.91745,229.069892 L249.877826,229.069892 C247.116858,229.069892 244.160914,226.940883 243.28131,224.331734 L237.101266,206 L315.898734,206 Z" id="Polygon-2" stroke="#3F3F3F" stroke-width="1.5" fill="#D7D6D6"></path>
+                <rect id="Rectangle-2" fill="#F86C6C" x="245.506329" y="171" width="63.0379747" height="5" rx="1"></rect>
+                <rect id="Rectangle-2" fill="#A4ABBF" x="243.405063" y="174" width="66.1898734" height="6" rx="1"></rect>
+                <path d="M306.512353,236.593609 C297.390006,237.104899 287.417923,237.429328 276.705475,237.433742 C265.803129,237.438892 255.66278,237.112255 246.403418,236.593609 C246.063283,236.593609 244.256842,236.573011 242.797747,235.679174 C241.874695,235.114916 241.303797,234.334373 241.303797,233.47217 L241.303797,232.582747 C241.303797,231.721279 241.874695,230.940736 242.797747,230.375742 C244.036896,229.617269 245.696706,229.50324 246.403418,229.462043 C253.959702,229.015492 276.705475,229.000043 276.705475,229.000043 C276.705475,229.000043 298.780593,228.986065 306.512353,229.462043 C307.187816,229.50324 308.901711,229.631246 310.118024,230.375742 C311.041076,230.940736 311.611974,231.721279 311.611974,232.582747 L311.611974,233.47217 C311.611974,235.19584 309.328382,236.593609 306.512353,236.593609" id="Fill-5" fill="#FDFFFF"></path>
+                <path d="M306.512353,236.593609 C297.390006,237.104899 287.417923,237.429328 276.705475,237.433742 C265.803129,237.438892 255.66278,237.112255 246.403418,236.593609 C246.063283,236.593609 244.256842,236.573011 242.797747,235.679174 C241.874695,235.114916 241.303797,234.334373 241.303797,233.47217 L241.303797,232.582747 C241.303797,231.721279 241.874695,230.940736 242.797747,230.375742 C244.036896,229.617269 245.696706,229.50324 246.403418,229.462043 C253.959702,229.015492 276.705475,229.000043 276.705475,229.000043 C276.705475,229.000043 298.780593,228.986065 306.512353,229.462043 C307.187816,229.50324 308.901711,229.631246 310.118024,230.375742 C311.041076,230.940736 311.611974,231.721279 311.611974,232.582747 L311.611974,233.47217 C311.611974,235.19584 309.328382,236.593609 306.512353,236.593609 Z" id="Stroke-7" stroke="#6F7172" stroke-width="3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="549px" height="615px" viewBox="0 0 549 615" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>shanghai</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cities-copy" transform="translate(-19.000000, -384.000000)">
+            <g id="shanghai" transform="translate(19.000000, 384.000000)">
+                <circle id="Oval" fill="#B1B2EC" cx="274.5" cy="328.5" r="274.5"></circle>
+                <path d="M274.5,459 C400,459 489,499.5 489,499.5 C489,499.5 500,489 517,457.5 C534,426 536,412.5 536,412.5 C536,412.5 444,352 274.5,352 C102,352 13,412.5 13,412.5 C13,412.5 16.5,428.5 32.5,459 C48.5,489.5 60,499.5 60,499.5 C60,499.5 140.018663,459 274.5,459 Z" id="Oval-8" fill="#6A9CF8"></path>
+                <rect id="Rectangle-5" fill="#D8D0BE" x="254" y="247" width="12" height="186"></rect>
+                <rect id="Rectangle-5" fill="#D8D0BE" x="293" y="247" width="12" height="186"></rect>
+                <rect id="Rectangle-5" fill="#D8D0BE" transform="translate(231.637649, 553.757845) rotate(20.000000) translate(-231.637649, -553.757845) " x="225.637649" y="504.054651" width="12" height="99.406388"></rect>
+                <rect id="Rectangle-5" fill="#D8D0BE" transform="translate(280.000000, 370.500000) rotate(90.000000) translate(-280.000000, -370.500000) " x="275.5" y="346.5" width="9" height="48"></rect>
+                <rect id="Rectangle-5" fill="#D8D0BE" transform="translate(281.000000, 345.500000) rotate(90.000000) translate(-281.000000, -345.500000) " x="276.5" y="321.5" width="9" height="48"></rect>
+                <rect id="Rectangle-5" fill="#D8D0BE" transform="translate(280.000000, 298.500000) rotate(90.000000) translate(-280.000000, -298.500000) " x="275.5" y="274.5" width="9" height="48"></rect>
+                <rect id="Rectangle-5" fill="#D8D0BE" transform="translate(281.000000, 274.500000) rotate(90.000000) translate(-281.000000, -274.500000) " x="276.5" y="250.5" width="9" height="48"></rect>
+                <rect id="Rectangle-5" fill="#D8D0BE" transform="translate(280.000000, 321.500000) rotate(90.000000) translate(-280.000000, -321.500000) " x="275.5" y="297.5" width="9" height="48"></rect>
+                <rect id="Rectangle-5" fill="#D8D0BE" transform="translate(278.000000, 395.500000) rotate(90.000000) translate(-278.000000, -395.500000) " x="273.5" y="371.5" width="9" height="48"></rect>
+                <rect id="Rectangle-5" fill="#D8D0BE" transform="translate(327.637649, 553.757845) scale(-1, 1) rotate(20.000000) translate(-327.637649, -553.757845) " x="321.637649" y="504.054651" width="12" height="99.406388"></rect>
+                <rect id="Rectangle-5" fill="#D8D0BE" transform="translate(280.000000, 560.000000) scale(-1, 1) translate(-280.000000, -560.000000) " x="274" y="505" width="12" height="110"></rect>
+                <rect id="Rectangle-6" fill="#D8D0BE" x="275" y="114" width="12" height="71"></rect>
+                <rect id="Rectangle-6" fill="#AAAAAA" x="277" y="0" width="5" height="71"></rect>
+                <circle id="Oval-7" stroke="#8998A2" stroke-width="3" fill="#B2C2CE" cx="279.5" cy="472.5" r="67.5"></circle>
+                <rect id="Rectangle-7" fill="#E46F80" x="212" y="458" width="135" height="30" rx="8"></rect>
+                <circle id="Oval-7" stroke="#8998A2" stroke-width="3" fill="#B2C2CE" cx="280" cy="218" r="44"></circle>
+                <rect id="Rectangle-7" fill="#FAD589" x="237" y="203" width="86" height="20" rx="5.2"></rect>
+                <rect id="Rectangle-7" fill="#E46F80" x="236" y="208" width="88" height="20" rx="5.2"></rect>
+                <circle id="Oval-7" stroke="#8998A2" stroke-width="3" fill="#AAB9C3" cx="281" cy="95" r="24"></circle>
+                <circle id="Oval-7" stroke="#979797" stroke-width="2" fill="#ECECEC" cx="228" cy="560" r="10"></circle>
+                <circle id="Oval-7" stroke="#979797" stroke-width="2" fill="#ECECEC" cx="331" cy="560" r="10"></circle>
+                <circle id="Oval-7" stroke="#979797" stroke-width="2" fill="#ECECEC" cx="280" cy="580" r="10"></circle>
+                <path d="M257,93.5676804 C257,92.7018744 257.697046,92 258.569756,92 L303.430244,92 C304.297196,92 305,92.7062149 305,93.5676804 L305,99.4323196 C305,100.298126 304.302954,101 303.430244,101 L258.569756,101 C257.702804,101 257,100.293785 257,99.4323196 L257,93.5676804 Z" id="Rectangle-7" fill="#E46F80"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="549px" height="632px" viewBox="0 0 549 632" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>tokyo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="240.674797 308.605304 306.325203 308.605304 321 629.042122 226 629.042122"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="95" height="320.436817" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <polygon id="path-3" points="253.195122 182.402496 298.804878 182.402496 309 340.156006 243 340.156006"></polygon>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="66" height="157.75351" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <polygon id="path-5" points="265.634146 111.413417 286.365854 111.413417 291 176.486739 261 176.486739"></polygon>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="65.0733229" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cities" transform="translate(-847.000000, -381.000000)">
+            <g id="tokyo" transform="translate(847.000000, 383.000000)">
+                <ellipse id="Oval" fill="#F7A894" cx="274.5" cy="356.424337" rx="274.5" ry="270.645866"></ellipse>
+                <path d="M305.084339,445 C305.459887,444.072814 305.666667,443.059239 305.666667,441.997357 L305.666667,439.002643 C305.666667,434.573755 302.082391,431 297.660963,431 L237.005704,431 C232.582199,431 229,434.582905 229,439.002643 L229,441.997357 C229,446.426245 232.584276,450 237.005704,450 L267.915661,450 C267.540113,450.927186 267.333333,451.940761 267.333333,453.002643 L267.333333,455.997357 C267.333333,460.426245 270.917609,464 275.339037,464 L335.994296,464 C340.417801,464 344,460.417095 344,455.997357 L344,453.002643 C344,448.573755 340.415724,445 335.994296,445 L305.084339,445 Z" id="Combined-Shape" fill="#A8DCED"></path>
+                <polygon id="Triangle-2" fill="#B4AFAF" points="240.158562 378.608424 373 578.75819 17 578.75819 154.357294 378.608424"></polygon>
+                <path d="M162.751521,455 C163.126786,454.072814 163.333333,453.059239 163.333333,451.997357 L163.333333,449.002643 C163.333333,444.573755 159.748558,441 155.326515,441 L60.0068188,441 C55.5781639,441 52,444.582905 52,449.002643 L52,451.997357 C52,456.426245 55.5847749,460 60.0068188,460 L108.248479,460 C107.873214,460.927186 107.666667,461.940761 107.666667,463.002643 L107.666667,465.997357 C107.666667,470.426245 111.251442,474 115.673485,474 L210.993181,474 C215.421836,474 219,470.417095 219,465.997357 L219,463.002643 C219,458.573755 215.415225,455 210.993181,455 L162.751521,455 Z" id="Combined-Shape" fill="#A8DCED"></path>
+                <polygon id="Rectangle-19" fill="#FFFAFA" points="153.908425 378.608424 240.091575 378.608424 265 416.074883 128 417.060842"></polygon>
+                <polygon id="Triangle-3" fill="#FFFAFA" transform="translate(151.500000, 425.441498) rotate(180.000000) translate(-151.500000, -425.441498) " points="151.5 416.074883 174 434.808112 129 434.808112"></polygon>
+                <polygon id="Triangle-3" fill="#FFFAFA" transform="translate(196.500000, 425.441498) rotate(180.000000) translate(-196.500000, -425.441498) " points="196.5 416.074883 219 434.808112 174 434.808112"></polygon>
+                <polygon id="Triangle-3" fill="#FFFAFA" transform="translate(242.500000, 425.441498) rotate(180.000000) translate(-242.500000, -425.441498) " points="242.5 416.074883 265 434.808112 220 434.808112"></polygon>
+                <use id="Rectangle-20" stroke="#636363" mask="url(#mask-2)" stroke-width="8" fill="#C4D1D7" xlink:href="#path-1"></use>
+                <use id="Rectangle-20" stroke="#636363" mask="url(#mask-4)" stroke-width="8" fill="#C4D0D7" xlink:href="#path-3"></use>
+                <use id="Rectangle-20" stroke="#636363" mask="url(#mask-6)" stroke-width="6" fill="#C4D0D7" xlink:href="#path-5"></use>
+                <path d="M275.5,0.492979719 L275.5,110.5" id="Line" stroke="#979797" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M329.287081,271.138846 C334.81416,271.138846 337.858413,275.37009 336.07982,280.6096 L317.625583,334.973446 C315.850031,340.203999 309.937617,344.4442 304.415277,344.4442 L243.879466,344.4442 C238.359168,344.4442 232.447752,340.212956 230.669159,334.973446 L212.214922,280.6096 C210.43937,275.379047 213.48504,271.138846 219.007662,271.138846 L329.287081,271.138846 Z" id="Polygon" fill="#8C989C"></path>
+                <path d="M265.5,111.906396 L286.5,111.906396" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                <rect id="Rectangle-21" fill="#8C989C" x="239" y="149.865835" width="72" height="42.3962559"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

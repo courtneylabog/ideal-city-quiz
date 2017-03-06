@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="818px" height="818px" viewBox="0 0 818 818" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>globe</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="409" cy="409" r="409"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cities-copy-4" transform="translate(-279.000000, -136.000000)">
+            <g id="globe" transform="translate(279.000000, 136.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#5FD5E4" xlink:href="#path-1"></use>
+                <path d="M-188.500916,332.968506 C-189.881122,285.489411 -152.495614,247 -105.009827,247 L126.009827,247 C173.500888,247 212,285.506449 212,333 L212,333 C212,380.496488 173.4991,419 126.007513,419 L-100.007513,419 C-147.499852,419 -187.118985,380.506932 -188.499084,333.031494 L-188.500916,332.968506 Z" id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-2)"></path>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-2)" x="-85" y="442" width="363" height="130" rx="65"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-2)" x="508" y="349" width="401" height="110" rx="55"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-2)" x="576" y="401" width="327" height="130" rx="65"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-2)" x="415" y="113" width="526" height="196" rx="90"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-2)" x="548" y="499" width="306" height="63" rx="31.5"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-2)" x="608" y="537" width="306" height="63" rx="31.5"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-2)" x="605" y="625" width="185" height="40" rx="20"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-2)" x="620" y="582" width="185" height="63" rx="31.5"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-2)" x="576" y="282" width="125" height="94" rx="47"></rect>
+                <rect id="Rectangle-33" fill="#5FD5E4" mask="url(#mask-2)" x="508" y="309" width="100" height="40" rx="20"></rect>
+                <rect id="Rectangle-33" fill="#5FD5E4" mask="url(#mask-2)" x="505" y="459" width="100" height="40" rx="20"></rect>
+                <rect id="Rectangle-33" fill="#5FD5E4" mask="url(#mask-2)" x="554" y="562" width="125" height="63" rx="31.5"></rect>
+                <rect id="Rectangle-33" fill="#5FD5E4" mask="url(#mask-2)" x="679" y="309" width="100" height="40" rx="20"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-2)" x="36" y="612" width="222" height="130" rx="65"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-2)" x="-60" y="537" width="222" height="130" rx="65"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-2)" x="-20" y="752" width="257" height="130" rx="65"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-2)" x="-116" y="78" width="313" height="130" rx="65"></rect>
+                <rect id="Rectangle-33" fill="#A5EDB7" mask="url(#mask-2)" x="-170" y="152" width="313" height="130" rx="65"></rect>
+                <rect id="Rectangle-33" fill="#5FD5E4" mask="url(#mask-2)" x="109" y="207" width="100" height="41" rx="20.5"></rect>
+                <rect id="Rectangle-33" fill="#5FD5E4" mask="url(#mask-2)" x="127" y="572" width="100" height="40" rx="20"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

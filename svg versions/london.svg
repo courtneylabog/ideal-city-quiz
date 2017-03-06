@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="549px" height="566px" viewBox="0 0 549 566" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>london</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="206 480 342.737705 480 342.737705 570.43824 335 570.43824 206 570.43824"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="136.737705" height="90.4382403" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="206" y="390" width="136.737705" height="90.4382403"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="136.737705" height="90.4382403" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="224" y="260" width="102.35337" height="102.443316"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="102.35337" height="102.443316" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="206" y="480" width="20" height="90.4400024"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="90.4400024" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="206" y="391" width="20" height="90"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="90" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="323" y="391" width="20" height="90"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="90" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="323" y="480" width="20" height="90.4400024"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="90.4400024" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cities" transform="translate(-446.000000, -5.000000)">
+            <g id="london" transform="translate(446.000000, 0.000000)">
+                <circle id="Oval-3" fill="#A1AFC5" cx="274.5" cy="294.5" r="274.5"></circle>
+                <circle id="Oval-6" stroke="#EDEDED" stroke-width="6" cx="159.980226" cy="339.980226" r="94.9802256"></circle>
+                <circle id="Oval-6" stroke="#EDEDED" stroke-width="9" cx="160.098872" cy="339.098872" r="115.098872"></circle>
+                <path d="M162,340.485992 L202.325384,490.982375 L208.120939,489.429461 L165.674616,331.017625 L162,332.002235 L158.325384,331.017625 L115.879061,489.429461 L121.674616,490.982375 L162,340.485992 Z" id="Combined-Shape" fill="#D8D8D8"></path>
+                <rect id="Rectangle-30" fill="#D3F7FD" x="42" y="259" width="20" height="18" rx="8"></rect>
+                <rect id="Rectangle-30" fill="#D3F7FD" x="86" y="218" width="20" height="18" rx="8"></rect>
+                <rect id="Rectangle-30" fill="#D3F7FD" x="152" y="202" width="20" height="18" rx="8"></rect>
+                <rect id="Rectangle-30" fill="#D3F7FD" x="208" y="214" width="20" height="18" rx="8"></rect>
+                <rect id="Rectangle-30" fill="#D3F7FD" x="37" y="392" width="20" height="18" rx="8"></rect>
+                <rect id="Rectangle-30" fill="#D3F7FD" x="76" y="436" width="20" height="18" rx="8"></rect>
+                <rect id="Rectangle-30" fill="#D3F7FD" x="204" y="445" width="20" height="18" rx="8"></rect>
+                <rect id="Rectangle-30" fill="#D3F7FD" x="22" y="323" width="20" height="18" rx="8"></rect>
+                <polygon id="Rectangle-14" fill="#617782" points="237.591075 182.404399 311.157559 182.404399 330.748634 220.013536 218 220.013536"></polygon>
+                <rect id="Rectangle-2" fill="#ECB87F" x="206" y="248" width="136.737705" height="322.536379"></rect>
+                <use id="Rectangle-12" stroke="#979797" mask="url(#mask-2)" stroke-width="1.6" xlink:href="#path-1"></use>
+                <use id="Rectangle-12" stroke="#979797" mask="url(#mask-4)" stroke-width="1.6" xlink:href="#path-3"></use>
+                <rect id="Rectangle-9" fill="#DDAE79" x="218" y="220" width="112.748634" height="28.0118443"></rect>
+                <use id="Rectangle-8" stroke="#717C76" mask="url(#mask-6)" stroke-width="5" fill="#E2BC7A" xlink:href="#path-5"></use>
+                <ellipse id="Oval-2" fill="#FFF5F5" cx="274.980874" cy="310.017766" rx="41.9808743" ry="42.0177665"></ellipse>
+                <path d="M294.591075,284.400169 L275.399818,311.611675" id="Line" stroke="#979797" stroke-width="2.4" stroke-linecap="square"></path>
+                <path d="M254.399818,298.400169 L275.190346,312.005922" id="Line" stroke="#979797" stroke-width="2.4" stroke-linecap="square"></path>
+                <rect id="Rectangle-11" fill="#9D9B9B" x="240" y="225" width="4.79781421" height="21.6091371" rx="2.3989071"></rect>
+                <rect id="Rectangle-11" fill="#9D9B9B" x="303" y="225" width="4.79781421" height="21.6091371" rx="2.3989071"></rect>
+                <rect id="Rectangle-11" fill="#9D9B9B" x="253" y="225" width="4.79781421" height="21.6091371" rx="2.3989071"></rect>
+                <rect id="Rectangle-11" fill="#9D9B9B" x="264" y="225" width="4.79781421" height="21.6091371" rx="2.3989071"></rect>
+                <rect id="Rectangle-11" fill="#9D9B9B" x="281" y="225" width="4.79781421" height="21.6091371" rx="2.3989071"></rect>
+                <rect id="Rectangle-11" fill="#9D9B9B" x="292" y="225" width="4.79781421" height="21.6091371" rx="2.3989071"></rect>
+                <rect id="Rectangle-15" fill="#ECB87F" x="238" y="151" width="73" height="31.213198"></rect>
+                <path d="M272.133257,9.90514626 C273.440373,4.54028263 275.557894,4.53317083 276.866743,9.90514626 L311,150 L238,150 L272.133257,9.90514626 Z" id="Rectangle-16" fill="#617782"></path>
+                <use id="Rectangle-17" stroke="#979797" mask="url(#mask-8)" stroke-width="3" xlink:href="#path-7"></use>
+                <use id="Rectangle-17" stroke="#979797" mask="url(#mask-10)" stroke-width="3" xlink:href="#path-9"></use>
+                <use id="Rectangle-17" stroke="#979797" mask="url(#mask-12)" stroke-width="3" xlink:href="#path-11"></use>
+                <rect id="Rectangle-13" fill="#D4A470" x="203" y="369" width="143.134791" height="24.0101523"></rect>
+                <use id="Rectangle-17" stroke="#979797" mask="url(#mask-14)" stroke-width="3" xlink:href="#path-13"></use>
+                <rect id="Rectangle-10" fill="#D1B397" x="194" y="248" width="23.989071" height="124.052453"></rect>
+                <rect id="Rectangle-10" fill="#D1B397" x="331" y="248" width="23.989071" height="124.052453"></rect>
+                <rect id="Rectangle-18" fill="#AAA085" x="244" y="400" width="5" height="72"></rect>
+                <rect id="Rectangle-18" fill="#AAA085" x="272" y="400" width="5" height="72"></rect>
+                <rect id="Rectangle-18" fill="#AAA085" x="300" y="400" width="5" height="72"></rect>
+                <rect id="Rectangle-18" fill="#AAA085" x="258" y="400" width="5" height="72"></rect>
+                <rect id="Rectangle-18" fill="#AAA085" x="286" y="400" width="5" height="72"></rect>
+                <rect id="Rectangle-18" fill="#AAA085" x="244" y="497" width="5" height="72"></rect>
+                <rect id="Rectangle-18" fill="#AAA085" x="272" y="497" width="5" height="72"></rect>
+                <rect id="Rectangle-18" fill="#AAA085" x="300" y="497" width="5" height="72"></rect>
+                <rect id="Rectangle-18" fill="#AAA085" x="258" y="497" width="5" height="72"></rect>
+                <rect id="Rectangle-18" fill="#AAA085" x="286" y="497" width="5" height="72"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
